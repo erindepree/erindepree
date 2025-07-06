@@ -7,11 +7,11 @@ erindepree@gmail.com  |  in/edepree  |  github.com/erindepree
 
 ## Profile
 
+### Project: FelineMetrics
+Cloud-based medical record of cat Mel
+
 ### Project: Determing Regional Affiliations 
 Expansion of dsb project 2.
-
-### Project: Lemon & Lime Analytics
-Accouting and finanical analysis application.
 
 ### Project 3
 
