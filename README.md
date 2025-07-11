@@ -38,7 +38,7 @@ link to portfolio site
 * major point
 * highlight
 
-### Data Science Researcher | Data Science Bootcamp | Jun - Sep 2025
+### Data Science Researcher | Data Science Bootcamp | General Assembly | Jun - Sep 2025
 * highlight 1
 * highlight 2
   
