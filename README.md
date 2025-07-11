@@ -1,22 +1,45 @@
-# Erin De Pree  |  Scientist, Problem Solver, Researcher, Team Player
-erindepree@gmail.com  |  in/edepree  |  github.com/erindepree
+# Erin De Pree  |  Data Scientist, Problem Solver, Researcher, Team Player
+erindepree@gmail.com  |  in/edepree  |  github.com/erindepree | website (coming this fall)
 
 *Greater DC/Baltimore metropolitian areas, willing to move*
 
 ## Statement
 
-## Profile
+## Skills
 
-### Project: FelineMetrics
-Cloud-based medical record of cat Mel
+## Projects
+link to portfolio site
 
-### Project: Determing Regional Affiliations 
+### Crime and Victims | GitHub link
+
+### Determing Regional Affiliations 
 Expansion of dsb project 2.
 
-### Project 3
+### FelineMetrics
+Cloud-based medical record of cat Mel
+
+
 
 ## Experience
-### Data Science Bootcamp
+
+### Data Science Consultant | ABCD | Sep - Nov 2025
+* major point
+* highlight
+
+### Data Science Researcher | Data Science Bootcamp | Jun - Sep 2025
+* highlight 1
+* highlight 2
+  
+### Visiting Associate Professor of Physics | Bates College | 2022 - 2025
+* pt 1
+* pt 2
+* pt 3
+
+### Associate Professor of Physics | St. Mary's College of Maryland | 2008 - 2022
+* pt 1
+* pt 2
+* pt 3
+
 
 ## Education
 
@@ -28,19 +51,5 @@ High energy phenomenology
 ### M.S., physics | The College of William & Mary | Williamsburg, Virginia | 2004
 
 ### B.S., physics and mathematics majors | Hillsdale College | Hillsdale, Michigan | 2003
-With highest honors, honors in mathematics
-
-<!--
-**erindepree/erindepree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Graduated with highest honors, honors in mathematics
+* Awards: senior physics major, senior math major
