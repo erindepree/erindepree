@@ -9,10 +9,7 @@ I am a data scientist and experienced problem solver looking to improve the worl
 ## Skills
 | Languages | Database | Visualization | Other |
 | --- | --- | --- | --- |
-|
-|
-| 
-|
+| Python (pandas, numpy), Mathematica (modules, machine learning, etc)  | Python (seaborn, matplotlib), Mathematica (graphing data, functions of best fit, animations of quantum states) | SQL, SQLite, TAP | LaTeX, Tikz |
 
 ## Projects
 link to portfolio site
