@@ -15,12 +15,20 @@ I am a data scientist and experienced problem solver looking to improve the worl
 link to portfolio site
 
 ### Crime and Victims | GitHub link
+* _Tools Used_ python, etc
+* GitHub repo shows process on syntethic data (actual data is confidential)
 
-### Determing Regional Affiliations 
-Expansion of dsb project 2.
+### Determing Regional Affiliations | GitHub link
+* _Tools Used_ python, pandas, numpy, matplotlib, seaborn, MORE
+* machine learning to identify regional groups of nations
+
+### Comparison of Global Increases in Life Expectancy and GNI per Capita
+* _Tools Used_ python, pandas, numpy, matplotlib, seaborn
+* We're living twice as long!
 
 ### FelineMetrics
-Cloud-based medical record of cat Mel
+* _Tools Used_ python, numpy, pandas, class and module creation
+* Cloud-based medical record of cat Mel
 
 
 
@@ -50,7 +58,6 @@ Cloud-based medical record of cat Mel
 ### Data Science Bootcamp | General Assembly | Remote | September 2025
 
 ### Ph.D., physics | The College of William & Mary | Williamsburg, Virginia | 2008
-High energy phenomenology
 
 ### M.S., physics | The College of William & Mary | Williamsburg, Virginia | 2004
 
