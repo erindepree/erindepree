@@ -4,8 +4,15 @@ erindepree@gmail.com  |  in/edepree  |  github.com/erindepree | website (coming 
 *Greater DC/Baltimore metropolitian areas, willing to move*
 
 ## Statement
+I am a data scientist and experienced problem solver looking to improve the world by providing accurate data to aid in constructing long-term solutions.  I use my experience as a physics college professor to mentor others, understand and negotiate with stakeholders with different backgrounds and priorities, and experience researching best practices to empower employee contributions to long-term solutions.  Include hard skills developed / learning now.  
 
 ## Skills
+| Languages | Database | Visualization | Other |
+| --- | --- | --- | --- |
+|
+|
+| 
+|
 
 ## Projects
 link to portfolio site
