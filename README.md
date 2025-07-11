@@ -1,5 +1,5 @@
 # Erin De Pree  |  Data Scientist, Problem Solver, Researcher, Team Player
-erindepree@gmail.com  |  [in/edepree](https://linkedin.com/in/edepree)  |  [github.com/erindepree](github.com/erindepree) | website (coming this fall)
+[erindepree@gmail.com](mailto:erindepree@gmail.com)  |  [in/edepree](https://linkedin.com/in/edepree)  |  [github.com/erindepree](https://github.com/erindepree) | website (coming this fall)
 
 *Greater DC/Baltimore metropolitian areas, willing to move*
 
