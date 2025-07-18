@@ -55,12 +55,12 @@ link to portfolio site
 
 ## Education
 
-#### Data Science Bootcamp | General Assembly | Remote | September 2025
+##### Data Science Bootcamp | General Assembly | Remote | September 2025
 
 ##### Ph.D., physics | The College of William & Mary | Williamsburg, Virginia | 2008
 
-###### M.S., physics | The College of William & Mary | Williamsburg, Virginia | 2004
+##### M.S., physics | The College of William & Mary | Williamsburg, Virginia | 2004
 
-### B.S., physics and mathematics majors | Hillsdale College | Hillsdale, Michigan | 2003
+##### B.S., physics and mathematics majors | Hillsdale College | Hillsdale, Michigan | 2003
 * Graduated with highest honors, honors in mathematics
 * Awards: senior physics major, senior math major
