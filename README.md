@@ -14,7 +14,11 @@ I am a data scientist and experienced problem solver looking to improve the worl
 ## Projects
 link to portfolio site
 
-### Determing Regional Affiliations | GitHub link
+### Housing Price Prediction | GitHub link to come
+* _Tools Used_ python pandas, sklearn, grid search, linear modeling, regularization, knn regression, decisition tree regression
+* maching learning, grid search
+
+### Determing Regional Affiliations | GitHub link (later)
 * _Tools Used_ python, pandas, numpy, matplotlib, seaborn, MORE
 * machine learning to identify regional groups of nations
 
@@ -22,7 +26,7 @@ link to portfolio site
 * _Tools Used_ python, pandas, numpy, matplotlib, seaborn
 * We're living twice as long!
 
-### FelineMetrics | [GitHub]()
+### FelineMetrics | GitHub link to come later
 * _Tools Used_ python, numpy, pandas, class and module creation
 * Cloud-based medical record of cat Mel
 
