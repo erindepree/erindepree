@@ -41,13 +41,13 @@ Promoted to Associate Professor in 2013, Chair of the physics department 2020 â€
 
 ## Education
 
-##### Data Science Bootcamp | General Assembly | Remote | September 2025
+### Data Science Bootcamp | General Assembly | Remote | September 2025
 
-##### Ph.D., physics | The College of William & Mary | Williamsburg, Virginia | 2008
+### Ph.D., physics | The College of William & Mary | Williamsburg, Virginia | 2008
 
-##### M.S., physics | The College of William & Mary | Williamsburg, Virginia | 2004
+### M.S., physics | The College of William & Mary | Williamsburg, Virginia | 2004
 
-##### B.S., physics and mathematics majors | Hillsdale College | Hillsdale, Michigan | 2003
+### B.S., physics and mathematics majors | Hillsdale College | Hillsdale, Michigan | 2003
 * Graduated with highest honors, honors in mathematics, honors programs member
 * 3.9 GPA overall, 4.0 in math and science
 * Awards: senior physics major, senior math major
