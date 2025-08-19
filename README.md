@@ -15,11 +15,10 @@ __Specific Tools and Langauages__ | python (including standard library, pandas, 
 
 ## Projects
 [Please visit my website for more details](https://erindepree.streamlit.app)
-* CAPSTONE | website | GitHub
-* PROJECT 5 | GitHub
-* Global Deaths Due to Extreme Temperatures | GitHub | [prior group GitHub](https://github.com/erindepree/project4.git)
+* Capstone | GitHub
+* Identifying Kidneys | GitHub
+* Global Deaths Due to Extreme Temperatures | GitHub
 * Predicting House Sale Price | GitHub
-* Indentifying Regional Affliations | GitHub
 
 ## Experience
 
