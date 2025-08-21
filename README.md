@@ -14,7 +14,7 @@ __Mathematical Skills__ | partial differential equations, differential equations
 __Specific Tools and Langauages__ | python (including standard library, pandas, numpy, matplotlib, seaborn, plotly.express, Dash, sklearn, pytorch, keras, and more), Mathematica (modules, machine learning, 2D and 3D plots, animations of quantum states), SQL (including SQLite, TAP), LaTeX and TikZ
 
 ## Projects
-[Please visit my website for more details](https://erindepree.streamlit.app)
+[Please visit my website for more details](https://erindepree.github.io/github.io)
 * Capstone | GitHub
 * Identifying Kidneys | GitHub
 * Global Deaths Due to Extreme Temperatures | GitHub
