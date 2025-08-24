@@ -16,7 +16,7 @@ __Specific Tools and Langauages__ | python (including standard library, pandas, 
 ## Projects
 [Please visit my website for more details](https://erindepree.github.io/github.io)
 * Capstone | GitHub
-* Classifying Kidneys Images by Condition | GitHub
+* Classifying Kidneys Images by Condition | [GitHub](https://github.com/erindepree/kidney-neural-net)
 * Global Deaths Due to Extreme Temperatures | GitHub
 * Predicting House Sale Price | GitHub
 * Astrometry of Double Stars | [Article](http://www.jdso.org/volume20/number4/DePree_503_510.pdf)
