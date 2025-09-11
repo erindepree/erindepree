@@ -1,5 +1,5 @@
 # Erin De Pree, PhD  |  Data Scientist
-[erindepree@gmail.com](mailto:erindepree@gmail.com)  |  [in/edepree](https://linkedin.com/in/edepree) | [website](https://erindepree.github.io/github.io)
+[erindepree@gmail.com](mailto:erindepree@gmail.com)  |  [in/edepree](https://linkedin.com/in/edepree) | [website](https://erindepree.github.io/github.io) | [resume](depree_resume_web.pdf)
 
 *Greater DC/Baltimore metropolitian areas, willing to move*
 
