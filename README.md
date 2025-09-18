@@ -21,6 +21,7 @@ __Specific Tools and Langauages__ | python (including standard library, pandas, 
 * Classifying Kidneys Images by Condition | [GitHub](https://github.com/erindepree/kidney-neural-net)
 * Astrometry of Double Stars | [Article](http://www.jdso.org/volume20/number4/DePree_503_510.pdf)
 * Physics Majors and Minors Database
+* FelineMetrics | [GitHub](https://github.com/erindepree/feline-metrics-app) | [Streamlit app to access my cat's medical records](https://felinemetrics.streamlit.app/)
 
 ## Experience
 
