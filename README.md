@@ -1,17 +1,21 @@
 # Erin De Pree, PhD  |  Data Scientist
-[erindepree@gmail.com](mailto:erindepree@gmail.com)  |  [in/edepree](https://linkedin.com/in/edepree) | [website](https://erindepree.github.io/github.io) | [resume](depree_resume_web.pdf)
+[erindepree@gmail.com](mailto:erindepree@gmail.com)  |  [in/edepree](https://linkedin.com/in/edepree) | [website](https://erindepree.github.io/github.io) | [resume (pdf)](depree_resume_web.pdf) | [resume (docx)](depree_resume_web.docx)
 
 *Greater DC/Baltimore metropolitian areas, willing to move*
 
 ## Statement
-I am a data scientist and experienced problem solver looking to improve the world by providing accurate data to aid in constructing long-term solutions.  I use my experience as a physics college professor to mentor others, understand and negotiate with stakeholders with different backgrounds and priorities, and experience researching best practices to empower employee contributions to long-term solutions.  
+I am a data scientist and problem solver with a Ph.D. in physics and experience bridging technical expertise with stakeholder engagement.  I am skilled in machine learning, neural networks, data analysis, and scientific research. As an experienced educator and mentor, I am adept at translating complex concepts for diverse audiences and driving measurable impact through data-driven solutions.  
 
-## Skills
-__Data Science Skills__ | data cleaning, exploratory data analysis, modeling, machine learning, unsupervised machine learning, interpretation, model limitations, deployment
+## Skill
+__Data Analysis and Visualization__ | exploratory data analysis, analytical skills, pandas, numpy, matplotlib, seaborn, plotly, dash
 
-__Mathematical Skills__ | partial differential equations, differential equations, linear algebra, group theory, topology, vector calculus
+__Machine Learning and AI__ | supervised and unsupervised learning, neural networks, TensorFlow, Keras, Scikit-Learn
 
-__Specific Tools and Langauages__ | python (including standard library, pandas, numpy, matplotlib, seaborn, plotly.express, Dash, sklearn, pytorch, keras, and more), Mathematica (modules, machine learning, 2D and 3D plots, animations of quantum states), SQL (including SQLite, TAP), LaTeX and TikZ
+__Advanced Math__ | partial differential equations, differential equations, linear algebra, group theory, topology, vector calculus, multivariable calculus, predictive modeling
+
+__Tools and Langauages__ | python, SQL (SQLite, TAP), Wolfram Mathematica, LaTeX, Google Colab, Jupyter Lab, Hugging Face
+
+__Professional Skills__ | mentorship, stakeholder engagement, team leadership, problem solving, troubleshooting
 
 
 
@@ -26,20 +30,26 @@ __Specific Tools and Langauages__ | python (including standard library, pandas, 
 ## Experience
 
 ### Data Science Researcher | Data Science Bootcamp | General Assembly | Jun - Sep 2025
-  
+Completed an intensive 12-week program building end-to-end data science projects while refining machine learning, Python, and data visualization skills.
+
 ### Visiting Associate Professor of Physics | Bates College | 2022 - 2025
-Recruited to provide support and ensure course coverage during a period of high faculty turnover
-* Mentored new faculty as they adjusted to Bates
-* Maintained a welcoming a supportive environments with students
-* Taught introductory physics to upper-level elective in quantum mechanics
+Supported faculty during high turnover, taught a range of courses from introductory physics to quantum mechanics, and mentored students and new faculty.
+* Mentored new faculty as they adjusted to Bates.
+* Supported new faculty onboarding and curriculum integration, enhancing departmental cohesion
 
 ### Associate Professor of Physics | St. Mary's College of Maryland | 2008 - 2022
-Promoted to Associate Professor in 2013, Chair of the physics department 2020 – 2021
+Led departmental initiatives, developed courses, and implemented programs to improve student success and research participation.
 * Created a 10 part career program that helps students explore post-college options resulting in an increase of student research participation from 60% to 95%.
 * Improved learning environment by developing an in-class inclusion and anti-bullying workshop, dramatically increased graduation rates among underrepresented groups in physics.
-* Developed a semester-long computer programming course to solve a range of physics problems using Mathematica which was self-taught
+* Developed a semester-long computer programming course to solve a range of physics problems using Mathematica which was self-taught.
+* Mentored about 30 research students resulting in over ten conference presentations
 
+## Certification
+### CAP-Pro Certification | Certified Analystics Professional | INFORMS 
+Scheduled for Monday, Oct 27
 
+### Google Advanced Data Anlytics | Coursera
+In progress, estimated completion in December 2025
 
 ## Education
 
