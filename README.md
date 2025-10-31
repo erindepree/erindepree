@@ -46,7 +46,7 @@ Led departmental initiatives, developed courses, and implemented programs to imp
 
 ## Certification
 ### CAP-Pro Certification | Certified Analystics Professional | INFORMS 
-Scheduled for Monday, Oct 27
+Took exam, results expected in late December 2025
 
 ### Google Advanced Data Anlytics | Coursera
 In progress, estimated completion in December 2025
