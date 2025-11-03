@@ -82,3 +82,6 @@ In progress, estimated completion in December 2025
 * Graduated with highest honors, honors in mathematics, honors programs member
 * 3.9 GPA overall, 4.0 in math and science
 * Awards: senior physics major, senior math major
+
+## Interests
+I enjoy playing board games, learning new things, quilting, painting, and making pottery.  I also enjoy spending time with my cat, Mel. She generally disapproves of most things. But at least she appears to enjoy herself while looking down on others!
