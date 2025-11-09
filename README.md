@@ -4,7 +4,7 @@
 *Greater DC/Baltimore metropolitian areas, willing to move*
 
 ## Statement
-I am a data scientist and problem solver with a Ph.D. in physics and experience bridging technical expertise with stakeholder engagement.  I am skilled in machine learning, neural networks, data analysis, and scientific research. As an experienced educator and mentor, I am adept at translating complex concepts for diverse audiences and driving measurable impact through data-driven solutions.  
+I am a data scientist and problem solver with a Ph.D. in physics and experience bridging technical expertise with stakeholder engagement.  I am skilled in machine learning, neural networks, data analysis, and scientific research. As an experienced educator and mentor, I am adept at translating complex concepts for diverse audiences and driving measurable impact through solutions that are statistically likely to succeed.
 
 ## Skill
 __Data Analysis and Visualization__ | exploratory data analysis, analytical skills, pandas, numpy, matplotlib, seaborn, plotly, dash
