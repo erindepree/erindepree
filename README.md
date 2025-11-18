@@ -29,9 +29,6 @@ __Professional Skills__ | mentorship, stakeholder engagement, team leadership, p
 
 ## Experience
 
-### Data Science Researcher | Data Science Bootcamp | General Assembly | Jun - Sep 2025
-Completed an intensive 12-week program building end-to-end data science projects while refining machine learning, Python, and data visualization skills.
-
 ### Visiting Associate Professor of Physics | Bates College | 2022 - 2025
 Supported faculty during high turnover, taught a range of courses from introductory physics to quantum mechanics, and mentored students and new faculty.
 * Mentored new faculty as they adjusted to Bates.
@@ -45,14 +42,6 @@ Led departmental initiatives, developed courses, and implemented programs to imp
 * Mentored about 30 research students resulting in over ten conference presentations
 
 ## Certification
-### CAP-Pro Certification | Certified Analystics Professional | INFORMS 
-Took exam, results expected in late December 2025
-
-### Google Advanced Data Anlytics | Coursera
-In progress, estimated completion in December 2025
-
-## Education
-
 ### Data Science Bootcamp | General Assembly | Remote | September 2025
 
 <blockquote class="badgr-badge"
@@ -73,6 +62,15 @@ In progress, estimated completion in December 2025
                                 style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;"
                                 aria-label="Verify (opens in new window)">VERIFY</a></p>
                     </blockquote>
+
+### Google Advanced Data Anlytics | Coursera
+In progress, estimated completion in December 2025
+
+### CAP-Pro Certification | Certified Analystics Professional | INFORMS 
+Took exam, results expected in late December 2025
+
+
+## Education
 
 ### Ph.D., physics | The College of William & Mary | Williamsburg, Virginia | 2008
 
